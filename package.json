@@ -1,0 +1,8 @@
+{
+  "name": "soap-node-test",
+  "version": "0.1.0",
+  "main": "./app.js",
+  "dependencies": {
+    "soap":"0.11.4"
+  }
+}
